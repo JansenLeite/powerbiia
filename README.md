@@ -5,8 +5,7 @@
 
 <h3>OBJETIVO DO CURSO:</h3>
 <label>
-    Desenvolver capacidades técnicas e socioemocionais relativas à análise de dados com
-	ferramentas e Business Intelligence e uso de Inteligência Artificial para criar modelos preditivos.
+    Desenvolver capacidades técnicas e socioemocionais relativas à análise de dados com ferramentas e Business Intelligence e uso de Inteligência Artificial para criar modelos preditivos.
 </label>
 
 <h3>CARGA HORÁRIA: 40 Horas</h3>
@@ -14,7 +13,7 @@
 <h4>CONHECIMENTOS ADQUIRIDOS:</h4>
 
 <pre>
-1. Fundamentos da Inteligência Artificial
+<b>1. Fundamentos da Inteligência Artificial</b>
 	1.1. IA Analítica
 		1.1.1. Histórico
 		1.1.2. Exemplos de aplicações
@@ -33,7 +32,7 @@
 	1.5. IA Especialista
 		1.5.1. Definição
 		1.5.2. Copilot
-2. Introdução à Machine Learning
+<b>2. Introdução à Machine Learning</b>
 	2.1. Definição
 	2.2. Tipos de aprendizado básicos
 		2.2.1. Supervisionado
@@ -54,7 +53,7 @@
 		2.5.1. Generalização: problemas de Underfitting e Overfitting
 		2.5.2. Principais métricas de modelos de regressão
 		2.5.3. Principais métricas de modelos de classificação
-3. Análise de dados no Power BI
+<b>3. Análise de dados no Power BI</b>
 	3.1. Ciclo de vida do dado
 		3.1.1. Coleta
 		3.1.2. Processamento
@@ -73,7 +72,7 @@
 	3.6. Responder a perguntas baseando-se em relatórios
 	3.7. Identificar padrões e insights por meio da interatividade dos relatórios
 	3.8. Criar visuais para solução de problemas
-4. Extração, transformação e carga no Power BI
+<b>4. Extração, transformação e carga no Power BI</b>
 	4.1. Conectando fontes de dados
 		4.1.1. Excel
 		4.1.2. Documentos (txt, csv)
@@ -89,7 +88,7 @@
 		4.3.1. Definição
 		4.3.2. Conceito Importação x DirectQuery
 		4.3.3. Atualização dos dados
-5. Modelagem de dados no Power BI
+<b>5. Modelagem de dados no Power BI</b>
 	5.1. Conceito de tabelas relacionais
 		5.1.1. Tabela fato x tabela dimensão
 		5.1.2. Esquema estrela
@@ -105,7 +104,7 @@
 		5.3.4. Distinctcount
 		5.3.5. Divide
 		5.3.6. Calculate
-6. Visualização de dados usando o Power BI
+<b>6. Visualização de dados usando o Power BI</b>
 	6.1. Definição storytelling
 	6.2. Escolha do gráfico ideal
 		6.2.1. Comparação: Barras e colunas
@@ -121,7 +120,7 @@
 	6.4. Recursos de interatividade
 		6.4.1. Navegação entre páginas
 		6.4.2. Drill-down e drill-up
-7. Prompts de IA para tarefas do Power BI
+<b>7. Prompts de IA para tarefas do Power BI</b>
 	7.1. Diferenças entre usar IA generalista e o Copilot
 	7.2. Prompts de IA para auxiliar na transformação de dados
 	7.3. Prompts de IA para auxiliar com funções DAX
