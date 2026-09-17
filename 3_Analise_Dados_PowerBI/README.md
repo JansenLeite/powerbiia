@@ -34,7 +34,7 @@
 # Material de Apoio:
 
 <h3>Introdução ao Power BI</h3>
-<a href="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_01_Introducao.pdf">Clique aqui para acessar o material<a>
+<a href="https://github.com/JansenLeite/PowerBiiA/blob/main/1_Preparacao_de_Dados/PWBI_01_Introducao.pdf">Clique aqui para acessar o material<a>
 
 <h3>Download do Power BI para Windows</h3>
 <a href="https://download.microsoft.com/download/8/8/0/880bca75-79dd-466a-927d-1abf1f5454b0/PBIDesktopSetup_x64.exe">Clique aqui para baixar o programa</a>
