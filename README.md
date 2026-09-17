@@ -1,4 +1,4 @@
-# Microsoft PowerBI 
+# Microsoft PowerBI e Análise de Dados com IA
 <label>Material de Estudo para o Curso de Microsoft PowerBI e Análise de Dados com IA - SENAI Jaguariúna.</label><br />
 
 <b>Profº Jansen Leite</b><br /><br />
