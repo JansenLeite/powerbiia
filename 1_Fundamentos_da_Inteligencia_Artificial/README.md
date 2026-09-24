@@ -30,7 +30,7 @@
 
 <h3>Análise de Dados 01</h3>
 <label>
-Se você chegou até aqui é porque você já fez a sua primeira análise de dados utilizando o PowerBI e, certamente, você deve ter se perguntado ou perguntado ao professor: "Como eu sei se esses dados que estão aparecendo em minha Dashboard estão corretos?".
+Se você chegou até aqui é por que você já fez a sua primeira análise de dados utilizando o PowerBI e, certamente, você deve ter se perguntado ou perguntado ao professor: "Como eu sei se esses dados que estão aparecendo em minha Dashboard estão corretos?".
 <br /><br />
 Está é uma dúvida natural que até grandes profissionais se questionam. E é por isso que faremos nossa primeira Análise de Dados com o <b>ChatGPT.</b> 
 <br /><br />
