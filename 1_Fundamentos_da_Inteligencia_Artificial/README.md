@@ -61,11 +61,15 @@ Para isso você irá construir (desenvolver) seu PROMPT juntamente com o profess
 		Segue em anexo minha Análise de Dados de meu primeiro Dashboard utilizando a IA Analítica (ChatGPT).
 
 		Informo ainda que os dados quanto a:
-		
-		Faturamento Vendas: Coincidem;
-		Quantidade de Vendas: Coincidem;
-		Gráfico de Quantidade Vendida por Categoria: Não Coincidem;
-		Gráfico de Quantidade Vendida por Marca: Coincidem;
+
+		Faturamento Vendas: Coincidem ou Não Coincidem;
+		Quantidade de Vendas: Coincidem ou Não Coincidem;
+		Gráfico de Quantidade Vendida por Categoria: Coincidem ou Não Coincidem;
+		Gráfico de Quantidade Vendida por Marca: Coincidem ou Não Coincidem;
+
+		Informo ainda que utilizei o PROMPT abaixo:
+
+		"Incluir o prompt desenvolvido aqui".
 
 		At.te.
 
