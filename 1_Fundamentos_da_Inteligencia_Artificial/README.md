@@ -24,7 +24,7 @@
 # Material de Apoio:
 
 <h3>Introdução a Fundamentos de Inteligência Artificial</h3>
-<a href="">Clique aqui para acessar o material<a>
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/1_Fundamentos_da_Inteligencia_Artificial/1_1_Fundamentos_IA.pdf">Clique aqui para acessar o material<a>
 
 # Exercício com o Professor:
 
