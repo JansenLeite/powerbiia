@@ -28,7 +28,7 @@
 
 # Exercício com o Professor:
 
-<h4>Análise de Dados 01</h4>
+<h3>Análise de Dados 01</h3>
 <label>
 Se você chegou até aqui é porque você já fez a sua primeira análise de dados utilizando o PowerBI e, certamente, você deve ter se perguntado ou perguntado ao professor: "Como eu sei se esses dados que estão aparecendo em minha Dashboard estão corretos?".
 <br /><br />
@@ -37,21 +37,26 @@ Está é uma dúvida natural que até grandes profissionais se questionam. E é 
 O objetivo nessa primeira atividade é explorarmos como a IA Analítica pode nos ajudar no dia-a-dia utilizando a linguagem natural.
 <br /><br />
 Para isso você irá construir (desenvolver) seu PROMPT juntamente com o professor. Não esqueça de protocolar seu script utilizando pendrive, seu e-mail ou Nuvem. Desta forma você poderá utilizar nas suas próximas análises de dados com IA.
-<br />
+<br /><br />
 <b>DICA IMPORTANTE: </b>Crie seu prompt em um bloco de notas e revise com o professor e colegas antes de executar. Isso evita você ter que gerar prompts de correção e considere também que a IA Analítica possui um número limitado para geração e análise de dados em arquivos. 
 
 </label>
 
-<h4>Instruções:</h4>
+<h3>Instruções:</h3>
+
+<label>- Considere a base de dados de Vendas utilizada em sua primeira DASHBOARD.</label>
+<br />
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/4_Extracao_Transformacao_Carga_PowerBI/PWBIIA_01_Vendas_LojaVirtual.xlsx">Clique aqui para baixar<a>
+<br />
+<label>- Desenvolva o PROMPT explorando sua linguagem natural;</label>
+<br />
+<label>- Ao final, baixe seu arquivo em .PDF e envie para o e-mail do professor seguindo as seguintes instruções:</label>
+<br /><br />
 <pre>
-	- Considere a base de dados de Vendas utilizada em sua primeira DASHBOARD.
-	<a href="">Clique aqui para baixar<a>
-	- Desenvolva o PROMPT explorando sua linguagem natural;
-	- Ao final, baixe seu arquivo em .PDF e envie para o e-mail do professor seguindo as seguintes instruções:
 	<b>PARA: </b> (o professor irá disponibilizar o e-mail)
 	<b>ASSUNTO: </b> Análise de Dados 01.
 	<b>CORPO: </b>
-		Boa noite professor...
+		Boa noite professor.
 
 		Segue em anexo minha Análise de Dados de meu primeiro Dashboard utilizando a IA Analítica (ChatGPT).
 
@@ -65,7 +70,4 @@ Para isso você irá construir (desenvolver) seu PROMPT juntamente com o profess
 
 		Jansen Leite. 
 		Turma de PowerBI e Análise de Dados com IA.
-
-
-
 </pre>
