@@ -79,7 +79,7 @@ Para isso você irá construir (desenvolver) seu PROMPT juntamente com o profess
 		Turma de PowerBI e Análise de Dados com IA.
 </pre>
 
-<h3>Análise de Dados 02</h3>
+<h3>Atividade 02 - Análise de Dados/h3>
 <label>
 Agora é com você! Crie um PROMPT utilizando o COPILOT e Outlook. O objetivo é fazer a Análise desenvolvida utilizando a base de dados <a href="https://github.com/JansenLeite/powerbiia/blob/main/4_Extracao_Transformacao_Carga_PowerBI/PWBIIA_03_Controle_Estoque.xlsx">PWBIIA_03_Controle_Estoque.xlsx</a> em sua primeira atividade individual e enviar para o e-mail: jansen.leite@sp.senai.br
 <br /><br />
@@ -92,8 +92,12 @@ Boa noite Professor Jansen.
 
 Segue em anexo a Análise de Vendas utilizando a IA Anaílita com Microsoft Copilot.
 
+Abaixo segue meu PROMPT utilizado no COPILOT:
+
+"Cole aqui seu PROMPT"
+
 At.te.
 
-Jansen Leite.
+Seu nome completo.
 <pre>
 
