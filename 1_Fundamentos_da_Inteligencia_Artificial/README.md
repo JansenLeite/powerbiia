@@ -77,7 +77,10 @@ Para isso você irá construir (desenvolver) seu PROMPT juntamente com o profess
 		com a coluna [Categoria]. Gere um gráfico de colunas empilhadas relacionando 
 		a coluna [Qtd. Vendida] com a coluna [Marca].
 
-		Importante: Desconsidere linhas duplicadas e linhas com campos em branco. Desconsidere, também, linhas com campo/coluna [Produto] vazia ou nulo. Ao final crie um arquivo com esta análise em .pdf com o nome de: Analise de Vendas Dashboard 1.pdf e disponibilize para Download.".
+		Importante: Desconsidere linhas duplicadas e linhas com campos em branco. 
+		Desconsidere, também, linhas com campo/coluna [Produto] vazia ou nulo. Ao final 
+		crie um arquivo com esta análise em .pdf com o nome de: 
+		Analise de Vendas Dashboard 1.pdf e disponibilize para Download.".
 
 		At.te.
 
