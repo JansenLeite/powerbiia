@@ -69,7 +69,9 @@ Para isso você irá construir (desenvolver) seu PROMPT juntamente com o profess
 
 		Informo ainda que utilizei o PROMPT abaixo:
 
-		"Incluir o prompt desenvolvido aqui".
+		"Considere o Arquivo em anexo. Faça uma análise de dados e informe o cálculo do Faturamento de Vendas que corresponde ao montante da multiplicação da coluna [PrecoUnitario] e coluna [Qtd. Vendida]. Informe a Quantidade Vendida que corresponde ao montante da coluna [Qtd. Vendida]. Gere um gráfico de barras empilhadas relacionando a coluna [Qtd. Vendida] com a coluna [Categoria]. Gere um gráfico de colunas empilhadas relacionando a coluna [Qtd. Vendida] com a coluna [Marca].
+
+		Importante: Desconsidere linhas duplicadas e linhas com campos em branco. Desconsidere, também, linhas com campo/coluna [Produto] vazia ou nulo. Ao final crie um arquivo com esta análise em .pdf com o nome de: Analise de Vendas Dashboard 1.pdf e disponibilize para Download.".
 
 		At.te.
 
