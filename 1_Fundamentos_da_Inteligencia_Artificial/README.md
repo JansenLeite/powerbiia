@@ -78,3 +78,22 @@ Para isso você irá construir (desenvolver) seu PROMPT juntamente com o profess
 		Jansen Leite. 
 		Turma de PowerBI e Análise de Dados com IA.
 </pre>
+
+<h3>Análise de Dados 02</h3>
+<label>
+Agora é com você! Crie um PROMPT utilizando o COPILOT e Outlook. O objetivo é fazer a Análise desenvolvida utilizando a base de dados <a href="https://github.com/JansenLeite/powerbiia/blob/main/4_Extracao_Transformacao_Carga_PowerBI/PWBIIA_03_Controle_Estoque.xlsx">PWBIIA_03_Controle_Estoque.xlsx</a> em sua primeira atividade individual e enviar para o e-mail: jansen.leite@sp.senai.br
+<br /><br />
+<b>Importante: </b> Não esqueça de anexar o arquivo gerado antes de enviar para: jansenleite@gmail.com. Segue abaixo modelo de e-mail para ajudá-lo.
+<pre>
+No campo assusto escreva: Análise de Dados 02 Controle de Estoque
+No campo corpo do e-mail escreva: 
+
+Boa noite Professor Jansen.
+
+Segue em anexo a Análise de Vendas utilizando a IA Anaílita com Microsoft Copilot.
+
+At.te.
+
+Jansen Leite.
+<pre>
+
