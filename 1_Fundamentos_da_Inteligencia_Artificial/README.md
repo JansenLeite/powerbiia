@@ -88,7 +88,7 @@ Para isso você irá construir (desenvolver) seu PROMPT juntamente com o profess
 		Turma de PowerBI e Análise de Dados com IA.
 </pre>
 
-<h3>Atividade 02 - Análise de Dados/h3>
+<h3>Atividade 02 - Análise de Dados</h3>
 <label>
 Agora é com você! Crie um PROMPT utilizando o COPILOT e Outlook. O objetivo é fazer a Análise desenvolvida utilizando a base de dados <a href="https://github.com/JansenLeite/powerbiia/blob/main/4_Extracao_Transformacao_Carga_PowerBI/PWBIIA_03_Controle_Estoque.xlsx">PWBIIA_03_Controle_Estoque.xlsx</a> em sua primeira atividade individual e enviar para o e-mail: jansen.leite@sp.senai.br
 <br /><br />
@@ -108,5 +108,5 @@ Abaixo segue meu PROMPT utilizado no COPILOT:
 At.te.
 
 Seu nome completo.
-<pre>
+</pre>
 
