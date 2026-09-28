@@ -23,8 +23,9 @@
 		2.5.2. Principais métricas de modelos de regressão
 		2.5.3. Principais métricas de modelos de classificação
 </pre>
+
 # Material de Apoio:
 
 <h3>Introdução a Machine Learning</h3>
-<a href="https://github.com/JansenLeite/powerbiia/blob/main/1_Fundamentos_da_Inteligencia_Artificial/1_1_Fundamentos_IA.pdf">Clique aqui para acessar o material<a>
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/2_Introducao_Machine_Learning/2_0_Introducao_Machine_Learning.pdf">Clique aqui para acessar o material<a>
 
