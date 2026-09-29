@@ -29,3 +29,9 @@
 <h3>Introdução a Machine Learning</h3>
 <a href="https://github.com/JansenLeite/powerbiia/blob/main/2_Introducao_Machine_Learning/2_0_Introducao_Machine_Learning.pdf">Clique aqui para acessar o material<a>
 
+
+# Atividade:
+
+<h3>Atividade 01 - Machine Learning</h3>
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUMzNOWjRRMzFPSEhVUUIzRTZGRUdLMUcyQi4u">Clique aqui para Responder o Formulário<a>
+
