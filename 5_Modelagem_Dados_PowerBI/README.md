@@ -23,7 +23,7 @@
 
 <label>Crie uma DASHBOARD realizando uma Análise de Vendas baseada nas BAses de Produtos, Clientes e Vendas que relacionam-se entre si.</b>.</label>
 <br /><br />
-<label>Mapeie os KPIS e Filtros que jusgar necessário.</label>
+<label>Mapeie os KPIS e Filtros que julgar necessário.</label>
 <br /><br />
 <label>Ao final não esqueça de enviar para o e-mail do professor o link da publicação com a descrição dos Filtros e KPI's utilizados.</label>
 <br /><br />
@@ -31,10 +31,10 @@
 # Material de Apoio:
 
 <h3>Base de Dados de Produtos</h3>
-<a href=""></a>
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/5_Modelagem_Dados_PowerBI/PWBIIA_05_01_Produtos.xlsx">PWBIIA_05_01_Produtos.xlsx</a>
 <br /><br />
 <h3>Base de Dados de Clientes</h3>
-<a href=""></a>
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/5_Modelagem_Dados_PowerBI/PWBIIA_05_02_Clientes.xlsx">PWBIIA_05_02_Clientes.xlsx</a>
 <br /><br />
 <h3>Base de Dados de Vendas</h3>
-<a href=""></a>
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/5_Modelagem_Dados_PowerBI/PWBIIA_05_03_Vendas.xlsx">PWBIIA_05_03_Vendas.xlsx</a>
