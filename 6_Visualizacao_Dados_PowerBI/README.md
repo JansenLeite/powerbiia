@@ -20,6 +20,7 @@
 </pre>
 
 # Exercício com o Professor:
+
 <pre>
 
 <b>ANÁLISE DE VENDAS E DESEMPENHO COMERCIAL</b>
@@ -32,8 +33,8 @@ ticket médio e o desempenho da categoria Informática.
 1) Identifique os KPI’s;
 2) Identifique os filtros necessários;
 3) Importe a base de dados: <a href="https://github.com/JansenLeite/powerbiia/blob/main/6_Visualizacao_Dados_PowerBI/PWBIIA_Base_Vendas_DAX.csv">PWBIIA_Base_Vendas_DAX.csv</a>
-4) Transforme e trate dos dados;
+4) Transforme e trate os dados se necessário;
 6) Utilize Colunas calculadas e Medidas DAX;
-7) Crie uma DASHBOARD;
-8) Publique-o, gere o link e envie para o professor por e-mail.
+7) Crie um DASHBOARD utilizando as técnicas apreendidas até aqui;
+8) Publique-o, gere o link público e envie para o professor por e-mail com a sigla no assunto de Atividade 01 DAX.
 </pre>
