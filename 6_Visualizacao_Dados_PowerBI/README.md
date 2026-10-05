@@ -22,13 +22,13 @@
 # Exercício com o Professor:
 <pre>
 
-<b>Análise de Vendas e Desempenho Comercial</b>
+<b>ANÁLISE DE VENDAS E DESEMPENHO COMERCIAL</b>
 
 Uma empresa varejista deseja analisar o desempenho de suas vendas. 
 O gestor precisa identificar faturamento, quantidade de vendas, clientes únicos, 
 ticket médio e o desempenho da categoria Informática.
 
-<b>Tarefa do Aluno:</b>
+<b>TAREFA DO ALUNO:</b>
 1) Identifique os KPI’s;
 2) Identifique os filtros necessários;
 3) Importe a base de dados: <a href="https://github.com/JansenLeite/powerbiia/blob/main/6_Visualizacao_Dados_PowerBI/PWBIIA_Base_Vendas_DAX.csv">PWBIIA_Base_Vendas_DAX.csv</a>
