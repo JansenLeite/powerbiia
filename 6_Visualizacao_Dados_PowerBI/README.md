@@ -24,7 +24,9 @@
 
 <b>Análise de Vendas e Desempenho Comercial</b>
 
-Uma empresa varejista deseja analisar o desempenho de suas vendas. O gestor precisa identificar faturamento, quantidade de vendas, clientes únicos, ticket médio e o desempenho da categoria Informática.
+Uma empresa varejista deseja analisar o desempenho de suas vendas. 
+O gestor precisa identificar faturamento, quantidade de vendas, clientes únicos, 
+ticket médio e o desempenho da categoria Informática.
 
 <b>Tarefa do Aluno:</b>
 1) Identifique os KPI’s;
