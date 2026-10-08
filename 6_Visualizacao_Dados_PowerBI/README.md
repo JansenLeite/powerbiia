@@ -53,10 +53,10 @@ Total de Pedidos (únicos), Quantidade solicitada por Categoria, Quantidade soli
 1) Identifique os KPI’s;
 2) Identifique os filtros necessários;
 3) Importe as bases de dados: 
-<a href="">Base1</a>
-<a href="">Base2</a>
-<a href="">Base3</a>
-<a href="">Base4</a>
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/6_Visualizacao_Dados_PowerBI/PWBIIA_06_01_categorias.xlsx">PWBIIA_06_01_categorias.xlsx</a>
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/6_Visualizacao_Dados_PowerBI/PWBIIA_06_02_fornecedores.xlsx">PWBIIA_06_02_fornecedores.xlsx</a>
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/6_Visualizacao_Dados_PowerBI/PWBIIA_06_03_pedidos.xlsx">PWBIIA_06_03_pedidos.xlsx</a>
+<a href="https://github.com/JansenLeite/powerbiia/blob/main/6_Visualizacao_Dados_PowerBI/PWBIIA_06_04_produtos.xlsx">PWBIIA_06_04_produtos.xlsx</a>
 4) Transforme e trate os dados se necessário;
 6) Utilize Colunas calculadas e Medidas DAX;
 7) Crie um DASHBOARD utilizando as técnicas apreendidas até aqui;
