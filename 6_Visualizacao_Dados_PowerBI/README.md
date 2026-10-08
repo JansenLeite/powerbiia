@@ -38,3 +38,27 @@ ticket médio e o desempenho da categoria Informática.
 7) Crie um DASHBOARD utilizando as técnicas apreendidas até aqui;
 8) Publique-o, gere o link público e envie para o professor por e-mail com a sigla no assunto de Atividade 01 DAX.
 </pre>
+
+# Atividade 02 - PIVOT + DAX:
+
+<pre>
+
+<b>ANÁLISE DE PEDIDOS</b>
+
+Uma empresa precisa de um DASHBOARD em Power BI para que sua equipe comercial possa monitorar os pedidos consolidados 
+por período. Em uma reunião, ficou acordado que no relatório será necessário o Faturamento de Pedidos, Ticket Médio de Pedidos, 
+Total de Pedidos (únicos), Quantidade solicitada por Categoria, Quantidade solicitade por Fornecedor, Desempenho da categoria Automotivo.
+
+<b>TAREFA DO ALUNO:</b>
+1) Identifique os KPI’s;
+2) Identifique os filtros necessários;
+3) Importe as bases de dados: 
+<a href="">Base1</a>
+<a href="">Base2</a>
+<a href="">Base3</a>
+<a href="">Base4</a>
+4) Transforme e trate os dados se necessário;
+6) Utilize Colunas calculadas e Medidas DAX;
+7) Crie um DASHBOARD utilizando as técnicas apreendidas até aqui;
+8) Publique-o, gere o link público e envie para o professor por e-mail com a sigla no assunto: Atividade 02 PIVOT + DAX.
+</pre>
