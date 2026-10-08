@@ -46,8 +46,9 @@ ticket médio e o desempenho da categoria Informática.
 <b>ANÁLISE DE PEDIDOS</b>
 
 Uma empresa precisa de um DASHBOARD em Power BI para que sua equipe comercial possa monitorar os pedidos consolidados 
-por período. Em uma reunião, ficou acordado que no relatório será necessário o Faturamento de Pedidos, Ticket Médio de Pedidos, 
-Total de Pedidos (únicos), Quantidade solicitada por Categoria, Quantidade solicitade por Fornecedor, Desempenho da categoria Automotivo.
+por período. Em uma reunião, ficou acordado que no relatório será necessário o Faturamento de Pedidos, 
+Ticket Médio de Pedidos, Total de Pedidos (únicos), Quantidade solicitada por Categoria, 
+Quantidade solicitade por Fornecedor, Desempenho da categoria Automotivo.
 
 <b>TAREFA DO ALUNO:</b>
 1) Identifique os KPI’s;
