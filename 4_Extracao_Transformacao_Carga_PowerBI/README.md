@@ -45,6 +45,11 @@
 <h3>Base de Dados - PWBIIA_01_Vendas_LojaVirtual</h3>
 <a href="https://github.com/JansenLeite/powerbiia/blob/main/4_Extracao_Transformacao_Carga_PowerBI/PWBIIA_01_Vendas_LojaVirtual.xlsx">PWBI_01_Vendas_LojaVirtual.xlsx</a>
 
+# Exercicio 2
+
+<img width="1440" height="807" alt="image" src="https://github.com/user-attachments/assets/8b4f7c09-8d1e-4fdf-be65-042f56f1a2e3" />
+
+Utilizar a base de dados <b>bd_vendas.xlsx</b>
 
 # Atividade Avaliativa 01:
 
