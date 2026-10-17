@@ -49,7 +49,7 @@
 
 <img width="1440" height="807" alt="image" src="https://github.com/user-attachments/assets/8b4f7c09-8d1e-4fdf-be65-042f56f1a2e3" />
 
-Utilizar a base de dados <b>bd_vendas.xlsx</b>
+Utilizar a base de dados <a href = "https://github.com/JansenLeite/powerbiia/blob/main/4_Extracao_Transformacao_Carga_PowerBI/bd_vendas.xlsx"><b>bd_vendas.xlsx</b></a>
 
 # Atividade Avaliativa 01:
 
