@@ -3,6 +3,9 @@
 
 <b>Profº Jansen Leite</b><br /><br />
 
+## Emails Educacionais: [Emails](./alunos_pbia.md)
+
+
 <h3>OBJETIVO DO CURSO:</h3>
 <label>
     Desenvolver capacidades técnicas e socioemocionais relativas à análise de dados com ferramentas e Business Intelligence e uso de Inteligência Artificial para criar modelos preditivos.
