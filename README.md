@@ -134,3 +134,6 @@
 
 <h3>Download do Power BI para Windows</h3>
 <a href="https://download.microsoft.com/download/8/8/0/880bca75-79dd-466a-927d-1abf1f5454b0/PBIDesktopSetup_x64.exe">Clique aqui para baixar o programa</a>
+
+<h3>Entrega de Atividades - FORMS</h3>
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUNlEzSU9YUlFCV0M5S1lCNUNGTFNUWjhGMC4u">Clique aqui para enviar a atividade</a>
